@@ -16,6 +16,30 @@ A News Website made with help help of React.It fetches the API and shows latest 
 
 # Home Page:
 
+![alt text](Image/HomePage.png)
+
+# General Page
+![alt text](Image/GeneralPage.png)
+
+# Business Page
+![alt text](Image/BusinessPage.png)
+
+# Entertainment Page
+![alt text](Image/EntertainmentPage.png)
+
+# Health Page
+![alt text](Image/HealthPage.png)
+
+# Science Page
+![alt text](Image/SciencePage.png)
+
+# Sports Page
+![alt text](Image/SportsPage.png)
+
+# Technology Page
+![alt text](Image/TechnologyPage.png)
+
+
 
 
 
